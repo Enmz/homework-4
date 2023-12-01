@@ -91,7 +91,6 @@ a {
   width: 800px;
   height: 300px;
   display: inline-block;
-  font-size: 20px;
 }
 
 .mid_block + .mid_block {
