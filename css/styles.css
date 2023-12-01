@@ -95,7 +95,6 @@ a {
 
 .mid_block + .mid_block {
   width: 400px;
-  height: 300px;
 }
 
 .mid_block > .mid_subblock {
